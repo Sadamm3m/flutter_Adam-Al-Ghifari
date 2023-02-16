@@ -1,9 +1,0 @@
-perkenalan mentor dan meete, pengenalan flutter dan pembahasan mengenai instalasi dan setting fluter
-flitter.dev dan bahasa pemrograman yang digunakan yaitu dart git alfianmrf
-echo "# flutter_Adam-Al-Ghifari" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Sadamm3m/flutter_Adam-Al-Ghifari.git
-git push -u origin main
