@@ -1,2 +1,2 @@
 pada soal perioritas pertama membuat folder git
-dan menjelaskan fungsi apa saja dalam git
+dan menjelaskan fungsi
