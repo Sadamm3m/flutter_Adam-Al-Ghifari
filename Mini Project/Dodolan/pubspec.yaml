@@ -1,0 +1,30 @@
+name: Dodolan
+description: E-Commerce App fetch data from Rest API.
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: any
+  provider: ^6.0.4
+  url_launcher: ^6.1.6
+  google_fonts: ^3.0.1
+  device_preview: ^1.1.0
+  change_app_package_name: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/rupee-indian.png
+    - images/face_image.jpg
