@@ -1,4 +1,4 @@
-## 15_platform widget
+## 13_platform widget
 ### pada materi ini kita membahas tentang Platform widget pada fluter 
 - Layout
 Untuk menggatur tata letak, layout bentuk wiget yang mengatur wiget bentuk lain nya.
