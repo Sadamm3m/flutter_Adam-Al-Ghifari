@@ -1,4 +1,4 @@
-## 15_Flutter Layout
+## 15_platform widget
 ### pada materi ini kita membahas tentang Flutter Layout pada fluter 
 - Layout
 Untuk menggatur tata letak, layout bentuk wiget yang mengatur wiget bentuk lain nya.
