@@ -1,5 +1,5 @@
 ## 15_platform widget
-### pada materi ini kita membahas tentang Flutter Layout pada fluter 
+### pada materi ini kita membahas tentang Platform widget pada fluter 
 - Layout
 Untuk menggatur tata letak, layout bentuk wiget yang mengatur wiget bentuk lain nya.
 - Single-child layout
